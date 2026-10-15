@@ -58,6 +58,11 @@ python shorts_a_csv.py https://www.youtube.com/@a/shorts https://www.youtube.com
    error with another IP** took the success rate from 85% to ~95%. On the last full run: 49 of 51 Shorts
    with text, and the retry saved 6 Shorts that would otherwise have come back empty.
 
+## Background: the measurements behind it
+
+We wrote up the three traps with the full numbers on our site:
+<https://sictegltda.com/youtube-shorts-transcripts.html>
+
 ## What it costs
 
 Pay per result, only for what is actually delivered:
