@@ -20,6 +20,10 @@ Output: **one row per Short, 20 flat columns** (nothing nested, so CSV/Excel imp
 | Comments | `comentarios_incluidos`, `comentarios_texto` |
 | Status | `estado`, `error` |
 
+## Video walkthrough
+
+A 50-second recording of a real run (one channel, 8 Shorts, 20 comments each): https://youtu.be/0CwQeIuzTg0
+
 ## Quick start
 
 You need an Apify account (free plan includes $5 of monthly credit) and its API token.
